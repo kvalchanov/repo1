@@ -1,0 +1,38 @@
+[
+    {"first_name": "Peter",
+     "last_name": "Griffin",
+     "pic": "./pics/Peter_Griffin.png",
+     "position": "Father",
+     "bio": "Peter Leonard Griffin is the patriarch of the Griffin household, an Irish-American blue-collar worker. For most of the series, Peter is shown as an obese, unintelligent, lazy, outspoken, immature, and eccentric alcoholic. He has several jobs, which have included working at the Happy Go Lucky Toy Factory, a fisherman, and currently as a shipping clerk at the Pawtucket Brewery. It is discovered that his legal first name is Justin, in season 13"
+     },
+     {"first_name": "Lois",
+      "last_name": "Griffin",
+      "pic": "./pics/Lois_Griffin.png",
+      "position": "Mother",
+      "bio": "Lois Patrice Griffin (née Pewterschmidt) is the matriarch of the Griffin household, Peter's wife, and the mother of Meg, Chris, and Stewie. She is an Anglo-American housewife who cares deeply for her kids and her husband, while also working as a piano instructor. Lois is also very flirtatious and has slept with numerous people on the show."
+     },
+     {"first_name": "Meg",
+      "last_name": "Griffin",
+      "pic": "./pics/Meg_Griffin.png",
+      "position": "Daughter",
+      "bio": "Margaret Carol \"Meg\" Griffin (voiced by Lacey Chabert in season 1, Mila Kunis since season 2) is the Griffins' 18-year-old daughter and oldest child. She is a self-conscious, insecure, and sensitive teenager who is more often than not ridiculed and ignored by the people around her. Meg just wants to be another face in the crowd by fitting in with her peers and being accepted, but she often finds herself to be a victim of circumstance. She has had several love interests over the course of the series, including Brian Griffin, Mayor Adam West, Tom Tucker, Glenn Quagmire, and Joe Swanson. In \"Don't Make Me Over (Family Guy)\", Tara Strong voices Meg's singing voice."
+     },
+     {"first_name": "Chris",
+      "last_name": "Griffin",
+      "pic": "./pics/Chris_Griffin.png",
+      "position": "Son",
+      "bio": "Christopher Cross \"Chris\" Griffin is the Griffins' 15-year-old son and middle child. He is a friendly, warm-hearted, and funny teenager who is a younger version of Peter physically, but intellectually, he shows better potential, as demonstrated from moments of coherence and articulation within his speech, especially when talking about films, TV series, actors and actresses, etc. Despite this, he is very naive, often showing a tendency to be easily fooled."
+     },
+     {"first_name": "Stewie",
+      "last_name": "Griffin",
+      "pic": "./pics/Stewie_Griffin.png",
+      "position": "Son",
+      "bio": "Stewart Gilligan \"Stewie\" Griffin is the Griffin's 1-year-old child, but often behaves in adult ways such as speaking in an upper-class British dialect. He is a child genius who frequently aspired to murder his mother Lois and take over the world but has since mellowed out considerably. Stewie built a time machine with which he and Brian have traveled through time. He turned 1 year old in \"Chitty Chitty Death Bang,\" and has not aged past one year since. As a fact in \"Road to Rupert,\" he says he is a year old."
+      },
+     {"first_name": "Brian",
+      "last_name": "Griffin",
+      "pic": "./pics/Brian_Griffin.png",
+      "position": "Pet?",
+      "bio": "Brian Griffin is the family's anthropomorphic talking white Labrador Retriever and the best friend of both Stewie and Peter. He and Stewie are often at the center of the show's most critically acclaimed episodes, most notably the \"Road to...\" episodes, where he and Stewie go on road-trips together. Brian is portrayed as an intellectual—a Brown University attendee—who often serves as the family's voice of reason, pointing out how ridiculous Peter's ideas are. He is not-so-secretly in love with Lois and is an unsuccessful, unemployed writer"
+      }
+]
